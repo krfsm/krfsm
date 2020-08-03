@@ -1,4 +1,6 @@
-### Hi there 👋
+### Whoami
+
+I'm cd. Usually a tester, but I write snippets of bad code on occasion.
 
 <!--
 **krfsm/krfsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
