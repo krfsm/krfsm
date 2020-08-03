@@ -1,6 +1,26 @@
 ### Whoami
 
-I'm cd. Usually a tester, but I write snippets of bad code on occasion.
+I'm cd.
+
+### Whatami
+
+Usually a tester, but I write snippets of bad code on occasion.
+
+### Whereami
+
+Stockholm, Sweden.
+
+### Whyami
+
+Because my ten-year plan is "don't die".
+
+### Whenami
+
+Evenings, mostly. Weekends, sometimes.
+
+### Howami
+
+Doing OK.
 
 <!--
 **krfsm/krfsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
